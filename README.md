@@ -1,4 +1,4 @@
-📌 Project Overview
+##📌 Project Overview
 This project presents an end-to-end Business Intelligence dashboard built in Power BI to analyze food delivery operations. The dashboard provides insights into transaction performance, customer purchasing behavior, payment trends, and restaurant rankings to support data-driven decision-making.
 
 The goal of this project is to transform raw transactional data into meaningful business insights using interactive reporting and KPI-driven analysis.
