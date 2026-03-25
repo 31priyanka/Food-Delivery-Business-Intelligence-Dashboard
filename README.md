@@ -1,63 +1,72 @@
-# Power BI Food Delivery Business Intelligence Dashboard
+# Power BI Food Delivery Analytics Dashboard
 
-## 📌 Project Overview
-This project presents an end-to-end Business Intelligence dashboard built in Power BI to analyze food delivery operations. The dashboard provides insights into transaction performance, customer purchasing behavior, payment trends, and restaurant rankings to support data-driven decision-making.
+## 📋 Project Summary
+A comprehensive Business Intelligence solution built in Power BI to visualize and analyze food delivery operations. This interactive dashboard enables stakeholders to monitor transaction trends, customer engagement patterns, payment preferences, and restaurant performance metrics through intuitive visualizations.
 
-The goal of this project is to transform raw transactional data into meaningful business insights using interactive reporting and KPI-driven analysis.
-
----
-
-## 🎯 Business Objective
-The primary objective of this analysis is to:
-- Analyze overall quantity, transactions and order trends
-- Identify top-performing restaurants and cuisines
-- Track customer ordering behavior
-- Support data-driven business decisions
+The project demonstrates the application of BI methodologies to convert raw order data into actionable business intelligence.
 
 ---
 
-## 📊 Key Performance Indicators (KPIs)
-
-- **Total Quantity Sold:** 15.10K  
-- **Total Transactions:** 2,746  
-- **Average Quantity per Transaction:** 5.50  
-- **Delivery Success Rate:** ~94%  
-- **Top Performing Restaurant:** Bukhara  
-- **Most Popular Payment Method:** UPI  
+## 🎯 Business Goals
+This analysis aims to:
+- Track order volume, transaction counts, and average order size
+- Evaluate restaurant performance and cuisine popularity
+- Understand customer segmentation and buying behavior
+- Enable data-backed operational and strategic decisions
 
 ---
 
-## 🛠 Tools & Technologies Used
-- **Microsoft Power BI** – Interactive dashboard development
-- **Power Query** – Data cleaning and transformation
-- **DAX (Data Analysis Expressions)** – KPI calculations, measures, aggregations
-- **Data Modeling** – Relationship building and star schema design
+## 📈 Core Metrics
+
+| Metric | Value |
+|--------|-------|
+| Total Items Sold | 15.10K |
+| Total Orders Processed | 2,746 |
+| Average Items Per Order | 5.50 |
+| Successful Deliveries | ~94% |
+| Top Restaurant by Volume | Bukhara |
+| Preferred Payment Method | UPI |
 
 ---
 
-## 📊 Key Insights
-- Over **94% delivery success rate** reflects strong operational efficiency.
-- **UPI is the dominant payment method**, indicating strong digital adoption.
-- The **Main Course category records the highest quantity ordered**, making it the primary demand driver.
-- The top two restaurants contribute the largest share of total quantity ordered, indicating operational concentration.
-- **Gold members consistently order higher quantities across major food categories compared to Regular members**, suggesting stronger engagement.
-- Average quantity per transaction is **5.50 items**, indicating moderate order bundling behavior.
-  
----
-
-## 📸 Dashboard Preview
+## 🧰 Technology Stack
+- **Power BI Desktop** – Dashboard design and visualization
+- **Power Query Editor** – Data preparation and cleansing
+- **DAX Language** – Custom measures and calculated columns
+- **Star Schema Modeling** – Optimized data relationships
 
 ---
 
-<img width="2767" height="1600" alt="food-delivery-dashboard-preview" src="https://github.com/user-attachments/assets/1e7edc6a-ffed-4e52-bf36-8f1cf7fe1273" />
+## 💡 Key Findings
 
-
-## 📬 Conclusion
-
-This project demonstrates the ability to convert raw transactional data into actionable business insights using structured Business Intelligence methodology and interactive visualization techniques.  
-
-It showcases skills in data modeling, KPI development, DAX calculations, and storytelling through dashboards to support strategic business decisions.
+- **Operational Efficiency:** Delivery success rate exceeds 94%, indicating reliable service execution.
+- **Digital Payments:** UPI accounts for the majority of transactions, reflecting strong digital payment adoption.
+- **Category Demand:** Main Course leads in total quantity ordered, representing the highest consumer demand segment.
+- **Restaurant Concentration:** Two leading restaurants account for a substantial portion of total orders, highlighting potential dependency.
+- **Membership Insights:** Gold members exhibit higher average order quantities across multiple food categories compared to Regular members.
+- **Order Behavior:** Average of 5.5 items per transaction suggests bundled ordering patterns.
 
 ---
 
-## ⭐ If you found this project helpful, feel free to star the repository!
+## 🖥️ Dashboard Preview
+
+<img width="1430" height="735" alt="Power BI Dashboard Preview" src="https://github.com/user-attachments/assets/9fdc4d3f-c7e1-493a-b3fe-7489298d75dd" />
+
+*Interactive dashboard showcasing food delivery performance metrics*
+
+---
+
+## 📌 Project Takeaways
+
+This project illustrates the process of building an end-to-end BI solution—from data preparation to visualization—to deliver meaningful business insights. It highlights proficiency in:
+
+- Designing intuitive, user-friendly dashboards
+- Implementing DAX for dynamic calculations
+- Structuring data models for efficient analysis
+- Crafting data-driven narratives for decision support
+
+---
+
+## 🙌 Feedback & Contributions
+
+If you find this project useful, please consider giving it a ⭐. Suggestions and improvements are always welcome!
