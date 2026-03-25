@@ -49,7 +49,8 @@ The primary objective of this analysis is to:
 
 ---
 
-<img width="2767" height="1600" alt="food-delivery-dashboard-preview" src="https://github.com/user-attachments/assets/1e7edc6a-ffed-4e52-bf36-8f1cf7fe1273" />
+<img width="1430" height="735" alt="image" src="https://github.com/user-attachments/assets/9fdc4d3f-c7e1-493a-b3fe-7489298d75dd" />
+
 
 
 ## 📬 Conclusion
